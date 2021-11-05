@@ -7,6 +7,7 @@
 import SwiftUI
 
 struct MissionView: View {
+    
     struct CrewMember {
         let role: String
         let astronaut: Astronaut
