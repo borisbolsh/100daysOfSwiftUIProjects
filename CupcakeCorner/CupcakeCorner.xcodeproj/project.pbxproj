@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45A72FE12738445700EB4AE3 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A72FE02738445700EB4AE3 /* CheckoutView.swift */; };
 		45B25D3D2736E72200C36EBC /* CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B25D3C2736E72200C36EBC /* CupcakeCornerApp.swift */; };
 		45B25D3F2736E72200C36EBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B25D3E2736E72200C36EBC /* ContentView.swift */; };
 		45B25D412736E72300C36EBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45B25D402736E72300C36EBC /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		45A72FE02738445700EB4AE3 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		45B25D392736E72200C36EBC /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45B25D3C2736E72200C36EBC /* CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		45B25D3E2736E72200C36EBC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				45B25D3C2736E72200C36EBC /* CupcakeCornerApp.swift */,
 				45B25D3E2736E72200C36EBC /* ContentView.swift */,
+				45A72FE02738445700EB4AE3 /* CheckoutView.swift */,
 				45B25D4A2736F28400C36EBC /* Order.swift */,
 				45B25D4C2736F7C100C36EBC /* AddressView.swift */,
 				45B25D402736E72300C36EBC /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				45B25D4B2736F28400C36EBC /* Order.swift in Sources */,
 				45B25D4D2736F7C100C36EBC /* AddressView.swift in Sources */,
+				45A72FE12738445700EB4AE3 /* CheckoutView.swift in Sources */,
 				45B25D3F2736E72200C36EBC /* ContentView.swift in Sources */,
 				45B25D3D2736E72200C36EBC /* CupcakeCornerApp.swift in Sources */,
 			);
