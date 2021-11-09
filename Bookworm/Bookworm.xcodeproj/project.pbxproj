@@ -16,6 +16,7 @@
 		4538486B27397B3300F36031 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4538486A27397B3300F36031 /* Persistence.swift */; };
 		4538486D27397C1600F36031 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4538486C27397C1600F36031 /* RatingView.swift */; };
 		4538486F27397DBA00F36031 /* EmojiRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4538486E27397DBA00F36031 /* EmojiRatingView.swift */; };
+		45478ABC273B073D00120CD4 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45478ABB273B073D00120CD4 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4538486A27397B3300F36031 /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		4538486C27397C1600F36031 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 		4538486E27397DBA00F36031 /* EmojiRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiRatingView.swift; sourceTree = "<group>"; };
+		45478ABB273B073D00120CD4 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				453848682739781B00F36031 /* AddBookView.swift */,
 				4538486C27397C1600F36031 /* RatingView.swift */,
 				4538486E27397DBA00F36031 /* EmojiRatingView.swift */,
+				45478ABB273B073D00120CD4 /* DetailView.swift */,
 				453848592739738100F36031 /* Assets.xcassets */,
 				453848602739738100F36031 /* Bookworm.xcdatamodeld */,
 				4538485B2739738100F36031 /* Preview Content */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				453848622739738100F36031 /* Bookworm.xcdatamodeld in Sources */,
+				45478ABC273B073D00120CD4 /* DetailView.swift in Sources */,
 				453848582739737F00F36031 /* ContentView.swift in Sources */,
 				4538486F27397DBA00F36031 /* EmojiRatingView.swift in Sources */,
 				453848562739737F00F36031 /* BookwormApp.swift in Sources */,

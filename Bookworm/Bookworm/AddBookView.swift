@@ -32,14 +32,12 @@ struct AddBookView: View {
                     }
                 }
 
+               
                 Section {
-                    Section {
-                        RatingView(rating: $rating)
-                        TextField("Write a review", text: $review)
-                    }
-
+                    RatingView(rating: $rating)
                     TextField("Write a review", text: $review)
                 }
+                
 
                 Section {
                     Button("Save") {
