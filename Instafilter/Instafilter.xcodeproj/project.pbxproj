@@ -11,6 +11,7 @@
 		4577E4B0273F0073005B7967 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4577E4AF273F0073005B7967 /* ContentView.swift */; };
 		4577E4B2273F0075005B7967 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4577E4B1273F0075005B7967 /* Assets.xcassets */; };
 		4577E4B5273F0075005B7967 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4577E4B4273F0075005B7967 /* Preview Assets.xcassets */; };
+		45F2F1EE27404CF70076728B /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F2F1ED27404CF70076728B /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4577E4AF273F0073005B7967 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4577E4B1273F0075005B7967 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4577E4B4273F0075005B7967 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		45F2F1ED27404CF70076728B /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4577E4AD273F0073005B7967 /* InstafilterApp.swift */,
 				4577E4AF273F0073005B7967 /* ContentView.swift */,
+				45F2F1ED27404CF70076728B /* ImagePicker.swift */,
 				4577E4B1273F0075005B7967 /* Assets.xcassets */,
 				4577E4B3273F0075005B7967 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45F2F1EE27404CF70076728B /* ImagePicker.swift in Sources */,
 				4577E4B0273F0073005B7967 /* ContentView.swift in Sources */,
 				4577E4AE273F0073005B7967 /* InstafilterApp.swift in Sources */,
 			);
